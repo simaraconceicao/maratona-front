@@ -9,12 +9,15 @@
 
 ## `Como usar este template:`
 
-- Com o link do template aberto no navegador, clique na setinha ao lado do botão verde "CODE" e escolha a opção download;
+- Com o link do template aberto no navegador, clique na setinha ao lado do botão verde "USE THIS TEMPLATE" e escolha a opção "Create a new repository";
 
--  Encontre a pasta baixada no se computador e tire o zip;
+- Após isso vá para o repositório criado no seu perfil do github, clique na setinha ao lado do botão verde "CODE" e copie o código;
 
-- Com seu repositório baixado na sua máquina, execute o comando ``npm install`` na pasta dentro de cada pasta(back e front) do projeto clonado para instalar todas as dependências.
+- Agora vá até o terminal no seu computador e use o código: git clone 'link copiado'
 
+- Com seu repositório baixado na sua máquina, execute o comando ``npm install`` na pasta dentro projeto clonado para instalar todas as dependências.
+
+- Agora rode o projeto com o comando ``npm run dev`` 
 
 ## `Apresentação`
 
